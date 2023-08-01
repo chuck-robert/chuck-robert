@@ -217,11 +217,6 @@ mindmap
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=chuck-robert&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuck-robert&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
 
-<!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/chuck-robert/Awesome-Love-Code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chuck-robert&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/chuck-robert/Student-Data-Vision">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chuck-robert&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
   
 <!-- Wakatime Graph-->
 <table>
@@ -273,41 +268,6 @@ mindmap
 
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/assets/images/githubgif.gif" />
-
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/chuck-robert/chuck-robert/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
